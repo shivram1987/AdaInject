@@ -14,7 +14,7 @@ The convolutional neural networks (CNNs) are generally trained using stochastic 
 
 If you use this code in your research, then please cite the following paper: Shiv Ram Dubey, S.H. Shabbeer Basha, Satish Kumar Singh, and Bidyut Baran Chaudhuri, AdaInject: Injection Based Adaptive Gradient Descent Optimizers for Convolutional Neural Networks, IEEE Transactions on Artificial Intelligence (TAI), 4(6): 1540-1548, Dec 2023.
 
-@article{dubey2022adainject,<br/>
+@article{dubey2023adainject,<br/>
 title={AdaInject: Injection Based Adaptive Gradient Descent Optimizers for Convolutional Neural Networks},<br/>
 author={Dubey, Shiv Ram and Basha, S.H. Shabbeer and Singh, Satish Kumar and Chaudhuri, Bidyut Baran},<br/>
 journal={IEEE Transactions on Artificial Intelligence (TAI)},<br/>
